@@ -48,7 +48,7 @@ Etapa | Descrição
 
 ## 🔗 Link para o Documento do Projeto
 ---
-[Documento Oficial](https://github.com/GrupoMackenzie/ProjetoAplicado01-DataScience-Mackenzie-2025/blob/main/docs/A1_ProjetoAplicado_Prenatal_V2.pdf)
+[Documento Oficial](https://github.com/GrupoMackenzie/ProjetoAplicado01-DataScience-Mackenzie-2025/blob/main/docs/A2_ProjetoAplicado_Prenatal.pdf)
 
 ## 🛠 Tecnologias que estamos usando:
 ---
@@ -119,7 +119,7 @@ Este roadmap apresenta as principais fases do projeto e seus marcos importantes.
 - 📅 **04 de Abril** → Segundo script de analise codado "Sisprenatal - analise 2 preliminar.py" para analisar estatísticas iniciais e observar dados específicos
 - 📅 **05 de Abril** → Terceiro script de analise codado "Sisprenatal - Script de Analise final.py" para analisar relações importantes e preparamos os primeiros insights.
 - 📅 **05 de Abril** → Alguns datasets são muito grandes para upar no repositório, resumi e limpei dados que não vamos usar nesse primeiro momento, sisprenatal.csv com 440mb agora sisprenatal_limpo com 23mb
-- 📅 **05 de Abril** → Repositórios atualizados
+- 📅 **05 de Abril** → Repositórios atualizados, entrega da A2 realizada
 
-🚀 **Status Atual:** *[Finalizando Documento do projeto para entrega da A2.]*  *[Atualizando alguns Scripts para perfeito funcionamento e organizando tudo.]*
+🚀 **Status Atual:** *[Atualizando alguns Scripts para perfeito funcionamento e organizando tudo.]* *[Analisando outros bancos de dados para cruzar informações.]*
 --- 
