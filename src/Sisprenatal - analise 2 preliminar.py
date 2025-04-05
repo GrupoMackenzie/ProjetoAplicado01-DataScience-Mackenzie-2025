@@ -2,7 +2,7 @@
 Created on segunda, 03/Abril 23:50:00 2025
 @author1 : Alberto Nagem.
 @author2 : <NOME DO(A) AUTOR(A)>
-Data da atualização: 05/Abril 2025 "VERSÃO COM ICONES :)"
+Data da atualização: 05/Abril 2025 "VERSÃO COM ICONES" para ficar bonitinho no Jupyter :)"
 """
 
 import pandas as pd
