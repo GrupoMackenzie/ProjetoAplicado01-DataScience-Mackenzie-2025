@@ -56,7 +56,7 @@ plt.tight_layout()
 plt.show()
 
 # -------------------------------
-# Média de consultas por UF
+# Média de consultas por Unidade Federativa
 # -------------------------------
 media_por_uf = df.groupby("CO_UF_IBGE")["QT_CONSULT"].mean().round(2).reset_index()
 media_por_uf.columns = ["UF", "Media_Consultas"]
