@@ -36,7 +36,7 @@ Etapa | Descrição
 - ANA JULIA DE ALMEIDA SAMPAIO → Documentação e apresentação dos insights.
 - DIOGO LIMA PEREIRA → Modelagem e visualizações dos resultados.
 - GABRIEL TORRES MENDES → Análises estatísticas, Definição do problema e Organização do projeto.
-
+"""
 ## 📂 Estrutura do Repositório
 ---
 ├── 📂 datasets/                → Arquivos de dados utilizados no projeto <br> 
@@ -46,7 +46,7 @@ Etapa | Descrição
 ├── 📂 src/                     → Scripts para processamento dos dados e outros <br>
 ├── 📜 README.md                → Descrição geral do projeto <br> 
 ├── 📜 requirements.txt         → Dependências do projeto  
-
+"""
 ## 🔗 Link para o Documento do Projeto
 ---
 [Documento Oficial](https://github.com/GrupoMackenzie/ProjetoAplicado01-DataScience-Mackenzie-2025/blob/main/docs/A1_ProjetoAplicado_Prenatal_V2.pdf)
