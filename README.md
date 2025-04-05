@@ -48,7 +48,7 @@ Etapa | Descrição
 
 ## 🔗 Link para o Documento do Projeto
 ---
-[Documento Oficial](https://github.com/albertonagemjunior/ProjetoAplicado01-DataScience-Mackenzie-2025/blob/master/docs/A1_ProjetoAplicado_Prenatal_V2.pdf)
+[Documento Oficial](https://github.com/GrupoMackenzie/ProjetoAplicado01-DataScience-Mackenzie-2025/blob/main/docs/A1_ProjetoAplicado_Prenatal_V2.pdf)
 
 ## 🛠 Tecnologias que podemos Utilizar
 ---
