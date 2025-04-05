@@ -108,10 +108,18 @@ Este roadmap apresenta as principais fases do projeto e seus marcos importantes.
 
 🎯 **Milestones Importantes**
 - 📅 **04 de Março** → Definição do projeto, organização do grupo e planejamento concluídos  
-- 📅 **10 de Março** → Envio de uma primeira etapa com diverosos itens a serem observados  
+- 📅 **10 de Março** → Envio de uma primeira etapa, obs do professor que existem diversos itens a serem observados  
 - 📅 **15 de Março** → Criado novo repositório com algumas adequações, construção do documento do projeto revisado
 - 📅 **01 de Abril** → Busca pelos datasets nas fontes indicadas sem sucesso, pensando em um plano B
-- 📅 **03 de Abril** → Atualização do readme.md para atender as exigencias das rublicas
- 
-🚀 **Status Atual:** *[Coleta de dados para tratamento e análise exploratória visando a elaboração da proposta analítica.]*  
+- 📅 **03 de Abril** → Atualização do readme.md para atender as exigencias das rubricas
+- 📅 **03 de Abril** → Conseguimos os datasets do SISPRENATAL problema estava nas datas
+- 📅 **04 de Abril** → Outros datasets importantes baixados: NASCIDOS VIVOS, ÓBTOS FETAIS e OBTOS MATERNOS, dados fragmentados em partes .dbc
+- 📅 **04 de Abril** → Dados expandidos em .dbf com o Tabwin, montei um script usando dbfread para converter e unificar todos os fragmentos em apenas um arquivo .csv
+- 📅 **04 de Abril** → Primeiro script de analise codado "Sisprenatal Analise de colunas.py" afim de analisar as colunas, rodando perfeitamente com o sisprenatal.csv
+- 📅 **04 de Abril** → Segundo script de analise codado "Sisprenatal - analise 2 preliminar.py" para analisar estatísticas iniciais e observar dados específicos
+- 📅 **05 de Abril** → Terceiro script de analise codado "Sisprenatal - Script de Analise final.py" para analisar relações importantes e preparamos os primeiros insights.
+- 📅 **05 de Abril** → Alguns datasets são muito grandes para upar no repositório, resumi e limpei dados que não vamos usar nesse primeiro momento, sisprenatal.csv com 440mb agora sisprenatal_limpo com 23mb
+- 📅 **05 de Abril** → Repositórios atualizados
+
+🚀 **Status Atual:** *[Finalizando Documento do projeto para entrega da A2.]*  *[Atualizando alguns Scripts para perfeito funcionamento e organizando.]*
 --- 
