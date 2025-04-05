@@ -39,13 +39,13 @@ Etapa | Descrição
 
 ## 📂 Estrutura do Repositório
 ---
-├── 📂 datasets/ → #Arquivos de dados utilizados no projeto <br> 
-├── 📂 notebooks/ <br>
-│  └──📓notebook.ipynb → [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GrupoMackenzie/ProjetoAplicado01-DataScience-Mackenzie-2025/blob/main/notebooks/notebook.ipynb) <br>
-├── 📂 docs/ → # Documentação do projeto <br>
-├── 📂 src/ → # outros scripts para processamento dos dados <br>
-├── 📜 README.md/ → # Descrição geral do projeto <br>
-├── 📜 requirements.txt/ → # Dependências do projeto
+├── 📂 datasets/                → Arquivos de dados utilizados no projeto  
+├── 📂 notebooks/              
+│   └── 📓 notebook.ipynb       → [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GrupoMackenzie/ProjetoAplicado01-DataScience-Mackenzie-2025/blob/main/notebooks/notebook.ipynb)
+├── 📂 docs/                    → Documentação do projeto  
+├── 📂 src/                     → Scripts para processamento dos dados e outros 
+├── 📜 README.md                → Descrição geral do projeto  
+├── 📜 requirements.txt         → Dependências do projeto  
 
 ## 🔗 Link para o Documento do Projeto
 ---
