@@ -62,11 +62,11 @@ Etapa | Descrição
 ---
 1. Clonar este repositório:  
    ```bash
-   #git clone https://github.com/"" (Ainda estamos definindo)
+   #git clone https://github.com/GrupoMackenzie/ProjetoAplicado01-DataScience-Mackenzie-2025.git
 
 2. Resolver dependências   
    ```bash
-   #pip install -r requirements.txt (documento ainda está vazio)
+   #pip install -r requirements.txt
 
 ## 📊 Fonte dos Dados
 ---
