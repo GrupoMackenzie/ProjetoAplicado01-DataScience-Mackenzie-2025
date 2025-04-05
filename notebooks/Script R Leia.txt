@@ -1,1 +1,0 @@
-Script R funcionando apenas com o .csv completo, aguarde nova versão
