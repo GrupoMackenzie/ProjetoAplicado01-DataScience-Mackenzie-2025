@@ -32,25 +32,25 @@ Etapa | Descrição
 
 ## 👥 Membros do Grupo
 ---
-- ALBERTO NAGEM → Coleta e tratamento dos dados → Organização do projeto.
+- ALBERTO NAGEM → Coleta e tratamento dos dados, criação dos scripts, exploração dos dados, organização do github.
 - ANA JULIA DE ALMEIDA SAMPAIO → Documentação e apresentação dos insights
-- DIOGO LIMA PEREIRA → Definição do problema, Modelagem e visualizações dos resultados
-- GABRIEL TORRES MENDES → Análises estatísticas e exploração dos dados → Organização do projeto.
+- DIOGO LIMA PEREIRA → Modelagem e visualizações dos resultados e ajudar na documentação
+- GABRIEL TORRES MENDES → Definição do problema, Análises estatísticas, organização do projeto.
 
 ## 📂 Estrutura do Repositório
 ---
 ├── 📂 datasets/ → #Arquivos de dados utilizados no projeto <br> 
-├── 📂 notebooks/ → # Scripts e análises exploratórias <br>
+├── 📂 notebooks/📓notebook.ipynb → [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/GrupoMackenzie/ProjetoAplicado01-DataScience-Mackenzie-2025/blob/main/notebooks/Analise_Sisprenatal_Completo.ipynb) <br>
 ├── 📂 docs/ → # Documentação do projeto <br>
-├── 📂 src/ → # Código-fonte para processamento dos dados <br>
+├── 📂 src/ → # outros scripts para processamento dos dados <br>
 ├── 📜 README.md/ → # Descrição geral do projeto <br>
 ├── 📜 requirements.txt/ → # Dependências do projeto
 
 ## 🔗 Link para o Documento do Projeto
 ---
-[Documento Oficial](https://github.com/albertonagemjunior/ProjetoAplicado01-DataScience-Mackenzie-2025/blob/master/docs/A1_ProjetoAplicado_Prenatal_V2.pdf)
+[Documento Oficial](https://github.com/GrupoMackenzie/ProjetoAplicado01-DataScience-Mackenzie-2025/blob/main/docs/A1_ProjetoAplicado_Prenatal_V2.pdf)
 
-## 🛠 Tecnologias que podemos Utilizar
+## 🛠 Tecnologias que estamos usando:
 ---
 - R
 - Python
@@ -62,11 +62,11 @@ Etapa | Descrição
 ---
 1. Clonar este repositório:  
    ```bash
-   #git clone https://github.com/"" (Ainda estamos definindo)
+   #git clone https://github.com/GrupoMackenzie/ProjetoAplicado01-DataScience-Mackenzie-2025.git
 
 2. Resolver dependências   
    ```bash
-   #pip install -r requirements.txt (documento ainda está vazio)
+   #pip install -r requirements.txt
 
 ## 📊 Fonte dos Dados
 ---
@@ -121,5 +121,5 @@ Este roadmap apresenta as principais fases do projeto e seus marcos importantes.
 - 📅 **05 de Abril** → Alguns datasets são muito grandes para upar no repositório, resumi e limpei dados que não vamos usar nesse primeiro momento, sisprenatal.csv com 440mb agora sisprenatal_limpo com 23mb
 - 📅 **05 de Abril** → Repositórios atualizados
 
-🚀 **Status Atual:** *[Finalizando Documento do projeto para entrega da A2.]*  *[Atualizando alguns Scripts para perfeito funcionamento e organizando.]*
+🚀 **Status Atual:** *[Finalizando Documento do projeto para entrega da A2.]*  *[Atualizando alguns Scripts para perfeito funcionamento e organizando tudo.]*
 --- 
