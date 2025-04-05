@@ -18,24 +18,18 @@ except FileNotFoundError:
     df = pd.read_csv("https://raw.githubusercontent.com/GrupoMackenzie/ProjetoAplicado01-DataScience-Mackenzie-2025/main/datasets/sisprenatal_limpo.csv")
     print("🌐 Dados carregados do GitHub.")
 
-# -------------------------------
 # Inf. gerais
-# -------------------------------
 print("🔍 Dimensões do dataset:", df.shape)
 print("\n📊 Tipos de dados:")
 print(df.dtypes)
 print("\n❓ Valores ausentes por coluna:")
 print(df.isnull().sum())
 
-# -------------------------------
 # Estatísticas descritivas
-# -------------------------------
 print("\n📈 Estatísticas descritivas:")
 print(df.describe())
 
-# -------------------------------
 # Gráficos: distribuição e outliers
-# -------------------------------
 sns.set(style="whitegrid")
 plt.figure(figsize=(16, 5))
 
@@ -55,18 +49,13 @@ plt.xlabel("QT_CONSULT")
 plt.tight_layout()
 plt.show()
 
-# -------------------------------
 # Média de consultas por Unidade Federativa
-# -------------------------------
 media_por_uf = df.groupby("CO_UF_IBGE")["QT_CONSULT"].mean().round(2).reset_index()
 media_por_uf.columns = ["UF", "Media_Consultas"]
 print("\n📍 Média de consultas por estado:")
 print(media_por_uf.sort_values(by="Media_Consultas", ascending=False))
 
-# -------------------------------
 # Mapa Temático por Estado
-# -------------------------------
-
 # Carrega a malha geográfica de estados do IBGE
 # Fonte alternativa: https://github.com/codeforamerica/click_that_hood/blob/master/public/data/brazil-states.geojson
 url = "https://raw.githubusercontent.com/codeforamerica/click_that_hood/master/public/data/brazil-states.geojson"
