@@ -36,17 +36,22 @@ Etapa | Descrição
 - ANA JULIA DE ALMEIDA SAMPAIO → Documentação e apresentação dos insights.
 - DIOGO LIMA PEREIRA → Modelagem e visualizações dos resultados.
 - GABRIEL TORRES MENDES → Análises estatísticas, Definição do problema e Organização do projeto.
-'''
-## 📂 Estrutura do Repositório
----
-├── 📂 datasets/                → Arquivos de dados utilizados no projeto <br> 
-├── 📂 notebooks/              <br>
-│   └── 📓 notebook.ipynb       → [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GrupoMackenzie/ProjetoAplicado01-DataScience-Mackenzie-2025/blob/main/notebooks/notebook.ipynb) <br>
-├── 📂 docs/                    → Documentação do projeto <br> 
-├── 📂 src/                     → Scripts para processamento dos dados e outros <br>
-├── 📜 README.md                → Descrição geral do projeto <br> 
-├── 📜 requirements.txt         → Dependências do projeto  
-'''
+
+## 📁 Estrutura do Repositório
+
+```
+📂 datasets/          → Arquivos de dados utilizados no projeto
+📂 notebooks/
+│   └── 📓 notebook.ipynb  → Open in Colab ▶️
+📂 docs/              → Documentação do projeto
+📂 src/               → Scripts para processamento dos dados e outros
+📄 README.md          → Descrição geral do projeto
+📄 requirements.txt   → Dependências do projeto
+```
+
+🔗 **Abrir notebook no Colab**: [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GrupoMackenzie/ProjetoAplicado01-DataScience-Mackenzie-2025/blob/main/notebooks/notebook.ipynb)
+
+
 ## 🔗 Link para o Documento do Projeto
 ---
 [Documento Oficial](https://github.com/GrupoMackenzie/ProjetoAplicado01-DataScience-Mackenzie-2025/blob/main/docs/A1_ProjetoAplicado_Prenatal_V2.pdf)
