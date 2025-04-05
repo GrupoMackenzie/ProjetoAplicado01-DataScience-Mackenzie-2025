@@ -116,7 +116,7 @@ Este roadmap apresenta as principais fases do projeto e seus marcos importantes.
 - 📅 **04 de Abril** → Scripts para primeiras explorações criados e feito as primeiras analises premilinares
 - 📅 **05 de Abril** → Limpeza de dados realizada para que os arquivos fiquem com tamanho compativel com GitHub e mais organizados
 - 📅 **05 de Abril** → Analise de pré natais premilinares finalizada, conhecimentos iniciais vão ser anexados ao Documento do projeto
-- 📅 **05 de Abril** → Repertórios atualizados
+- 📅 **05 de Abril** → Repositórios atualizados
  
 🚀 **Status Atual:** *[Finalizando Documento do projeto para entrega da A2.]*  
 --- 
