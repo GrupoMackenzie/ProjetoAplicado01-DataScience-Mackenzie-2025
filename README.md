@@ -32,10 +32,10 @@ Etapa | Descrição
 
 ## 👥 Membros do Grupo
 ---
-- ALBERTO NAGEM → Coleta e tratamento dos dados → Organização do projeto.
-- ANA JULIA DE ALMEIDA SAMPAIO → Documentação e apresentação dos insights
-- DIOGO LIMA PEREIRA → Definição do problema, Modelagem e visualizações dos resultados
-- GABRIEL TORRES MENDES → Análises estatísticas e exploração dos dados → Organização do projeto.
+- ALBERTO NAGEM → Coleta e tratamento dos dados, exploração dos dados, códigos, Scripts e Organização do projeto.
+- ANA JULIA DE ALMEIDA SAMPAIO → Documentação e apresentação dos insights.
+- DIOGO LIMA PEREIRA → Modelagem e visualizações dos resultados.
+- GABRIEL TORRES MENDES → Análises estatísticas, Definição do problema e Organização do projeto.
 
 ## 📂 Estrutura do Repositório
 ---
