@@ -42,7 +42,7 @@ Etapa | Descrição
 ```
 📂 datasets/          → Arquivos de dados utilizados no projeto
 📂 notebooks/
-│   └── 📓 notebook.ipynb  → 🔗 **Abrir notebook no Colab**: [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GrupoMackenzie/ProjetoAplicado01-DataScience-Mackenzie-2025/blob/main/notebooks/notebook.ipynb)
+│   └── 📓 notebook.ipynb  → [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GrupoMackenzie/ProjetoAplicado01-DataScience-Mackenzie-2025/blob/main/notebooks/notebook.ipynb)
 📂 docs/              → Documentação do projeto
 📂 src/               → Scripts para processamento dos dados e outros
 📄 README.md          → Descrição geral do projeto
