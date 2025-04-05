@@ -27,7 +27,7 @@ Etapa | Descrição
 ---|---
 1 | Premissas do projeto, objetivos e metas, cronograma da atividade, definição do grupo, pensamento computacional em contextos organizacionais.
 2 | Elaboração da proposta analitica, inicio nas analises exploratórias de dados.
-3 | Apresentar resultados análiticos, Data Storytelling.
+3 | Finalizar e Apresentar resultados análiticos, Data Storytelling.
 4 | Ajustes finais, elaboração de vídeo de 5 minutos, apresentação dos resultados.
 
 ## 👥 Membros do Grupo
@@ -111,7 +111,12 @@ Este roadmap apresenta as principais fases do projeto e seus marcos importantes.
 - 📅 **10 de Março** → Envio de uma primeira etapa com diverosos itens a serem observados  
 - 📅 **15 de Março** → Criado novo repositório com algumas adequações, construção do documento do projeto revisado
 - 📅 **01 de Abril** → Busca pelos datasets nas fontes indicadas sem sucesso, pensando em um plano B
-- 📅 **03 de Abril** → Atualização do readme.md para atender as exigencias das rublicas
+- 📅 **03 de Abril** → Atualização do readme.md para atender as exigencias das rubricas
+- 📅 **04 de Abril** → Dados adquiridos das fontes, Dados em .dbc convertidos para dbf, script para conversão em .cvs funcionando com sucesso
+- 📅 **04 de Abril** → Scripts para primeiras explorações criados e feito as primeiras analises premilinares
+- 📅 **05 de Abril** → Limpeza de dados realizada para que os arquivos fiquem com tamanho compativel com GitHub e mais organizados
+- 📅 **05 de Abril** → Analise de pré natais premilinares finalizada, conhecimentos iniciais vão ser anexados ao Documento do projeto
+- 📅 **05 de Abril** → Repertórios atualizados
  
-🚀 **Status Atual:** *[Coleta de dados para tratamento e análise exploratória visando a elaboração da proposta analítica.]*  
+🚀 **Status Atual:** *[Finalizando Documento do projeto para entrega da A2.]*  
 --- 
