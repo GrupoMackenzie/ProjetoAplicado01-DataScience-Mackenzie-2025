@@ -1,7 +1,7 @@
-pip install pandas
-pip install dbfread
-pip install keyboard
-pip install matplotlib
-pip install seaborn
-pip install openpyxl
-pip install geopandas
+pandas 
+dbfread 
+keyboard 
+matplotlib 
+seaborn 
+openpyxl 
+geopandas
