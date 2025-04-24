@@ -7,7 +7,7 @@ try:
     print("Dataset nascidos vivos encontrado com sucesso!")
 except FileNotFoundError:
     print("Dataset nascidos vivos não encontrado!")
-    
+
 #média de consultas prenatal por gestante por UF
 media_por_uf = df.groupby('CODUFNATU')['CONSPRENAT'].mean().round(2).reset_index()
 media_por_uf.columns = ["UF", "Media_Consultas"]
@@ -36,7 +36,7 @@ media_por_uf["Estado"] = media_por_uf["UF"].map(codigo_uf_ibge)
 # Mescla com os dados da geografia
 mapa = ufs.merge(media_por_uf, how="left", left_on="name", right_on="Estado")
 
-# Plota o mapa temático solicitado na atividade
+# Plota o mapa temático
 plt.figure(figsize=(12, 10))
 mapa.plot(column="Media_Consultas", cmap="YlGnBu", legend=True, edgecolor='black')
 plt.title("Média de Consultas de \nPré-Natal de nascidos vivos por gestante por Estado (Brasil)", fontsize=15)
