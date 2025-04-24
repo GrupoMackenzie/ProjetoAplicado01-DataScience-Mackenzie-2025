@@ -6,8 +6,7 @@ try:
 except FileNotFoundError:
     print("Dataset nascidos vivos não encontrado!")
 
-# Filtrando colunas e eliminando duplicados e NaN
-df = df[['CONSPRENAT', 'CODUFNATU']] 
+# Filtrando colunas e eliminando duplicados
 df.drop_duplicates(inplace=True)
-df.dropna(inplace=True)
-df.to_csv('nascidos_vivos.csv')
+df = df[['CONSPRENAT', 'CODUFNATU']] 
+df.to_csv('nascidos_vivos_limpo.csv')
