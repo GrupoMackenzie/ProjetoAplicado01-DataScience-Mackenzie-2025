@@ -5,8 +5,9 @@ try:
     print("Dataset nascidos vivos encontrado com sucesso!")
 except FileNotFoundError:
     print("Dataset nascidos vivos não encontrado!")
-#média de consultas prenatal por gestante por UF
-df = df[['CONSPRENAT', 'CODUFNATU']] # Filtrando colunas
+
+# Filtrando colunas e eliminando duplicados e NaN
+df = df[['CONSPRENAT', 'CODUFNATU']] 
 df.drop_duplicates(inplace=True)
 df.dropna(inplace=True)
 df.to_csv('nascidos_vivos.csv')
