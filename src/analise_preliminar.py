@@ -17,6 +17,31 @@ uf_siglas = {
     '50': 'MS', '51': 'MT', '52': 'GO', '53': 'DF'
 }
 
+# -----------------------------
+# BL.0 Análise inicial de colunas
+# -----------------------------
+print(df[['CONSPRENAT', 'IDANOMAL', 'IDADEMAE', 'ESCMAE', 'RACACOR', 'ESTCIVMAE']].describe())
+
+# Contagem de valores NA
+print(df.isna().sum().sort_values(ascending=False))
+
+# Outliers via IQR
+colunas_numericas = df.select_dtypes(include=['int64', 'float64']).columns
+for coluna in colunas_numericas:
+    serie = df[coluna].dropna()
+    if len(serie) < 10:
+        continue
+    Q1 = serie.quantile(0.25)
+    Q3 = serie.quantile(0.75)
+    IQR = Q3 - Q1
+    limite_inferior = Q1 - 1.5 * IQR
+    limite_superior = Q3 + 1.5 * IQR
+    outliers = serie[(serie < limite_inferior) | (serie > limite_superior)]
+    print(f"{coluna} — {len(outliers)} outliers encontrados ({round(len(outliers)/len(serie)*100, 2)}% dos dados)")
+
+# Variância entre colunas
+print(df.var(numeric_only=True))
+
 # Criar coluna UF com base no código do município
 df['UF'] = df['CODMUNRES'].str[:2].map(uf_siglas)
 
