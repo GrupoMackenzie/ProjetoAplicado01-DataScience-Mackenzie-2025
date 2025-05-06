@@ -1,11 +1,12 @@
 import pandas as pd
+from dbfread import DBF
 
-try:
-    df = pd.read_csv("../datasets/nascidos_vivos.csv", encoding='latin1')
-    print("Dataset nascidos vivos encontrado com sucesso!")
-    # Filtrando colunas e eliminando duplicados
-    df.drop_duplicates(inplace=True)
-    df = df[['CONSPRENAT', 'CODUFNATU']] 
-    df.to_csv('nascidos_vivos_limpo.csv')
-except FileNotFoundError:
-    print("Dataset nascidos vivos não encontrado!")
+# Caminho do sisnasc
+arquivo_dbf = '../datasets/nascidos_vivos_2014.dbf'
+
+# Carrega extenção DBF
+dbf = DBF(arquivo_dbf, encoding='latin1')
+df = pd.DataFrame(iter(dbf))
+df = df[['CODMUNRES', 'CONSPRENAT', 'IDANOMAL', 'IDADEMAE', 'ESCMAE', 'RACACOR', 'ESTCIVMAE']]
+
+df.to_csv('nascidos_vivos_limpo.csv')
