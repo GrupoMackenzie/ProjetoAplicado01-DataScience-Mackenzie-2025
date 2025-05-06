@@ -40,7 +40,7 @@ for uf in total_por_estado.index:
 print("\n🗺️ [BRASIL] Mapa de calor: total de nascidos vivos por estado:")
 
 # Configurações iniciais
-geobr_path = 'br_estados.geojson'
+geobr_path = 'https://raw.githubusercontent.com/GrupoMackenzie/ProjetoAplicado01-DataScience-Mackenzie-2025/main/src/br_estados.geojson'
 gdf = gpd.read_file(geobr_path).to_crs(epsg=5880)
 nascimentos_por_uf = df['UF'].value_counts().rename_axis('UF').reset_index(name='NASCIDOS')
 gdf['UF'] = gdf['sigla'] if 'sigla' in gdf.columns else gdf['UF']
