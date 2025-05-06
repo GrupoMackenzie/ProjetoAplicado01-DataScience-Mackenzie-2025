@@ -1,14 +1,9 @@
 import pandas as pd
 import geopandas as gpd
 import matplotlib.pyplot as plt
-from dbfread import DBF
 
-# Caminho do sisnasc
-arquivo_dbf = '../datasets/nascidos_vivos_2014.dbf'
-
-# Carrega extenção DBF
-dbf = DBF(arquivo_dbf, encoding='latin1')
-df = pd.DataFrame(iter(dbf))
+# Caminho SINASC - Limpo
+df = pd.read_csv("https://raw.githubusercontent.com/GrupoMackenzie/ProjetoAplicado01-DataScience-Mackenzie-2025/refs/heads/main/datasets/nascidos_vivos_limpo.csv", encoding='latin1')
 
 # Corrigindo para garantir 6 dígitos e adicionar "0" ao final para formar 7 na Tabulação conforme dicionário do datasus
 df['CODMUNRES'] = df['CODMUNRES'].astype(str).str.zfill(6) + "0"
