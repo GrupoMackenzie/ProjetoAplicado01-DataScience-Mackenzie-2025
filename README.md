@@ -121,6 +121,11 @@ Este roadmap apresenta as principais fases do projeto e seus marcos importantes.
 - 📅 **05 de Abril** → Terceiro script de analise codado "Sisprenatal - Script de Analise final.py" para analisar relações importantes e preparamos os primeiros insights.
 - 📅 **05 de Abril** → Alguns datasets são muito grandes para upar no repositório, resumi e limpei dados que não vamos usar nesse primeiro momento, sisprenatal.csv com 440mb agora sisprenatal_limpo com 23mb
 - 📅 **05 de Abril** → Repositórios atualizados, entrega da A2 realizada, notebook jupyter atualizado
-
-🚀 **Status Atual:** *[Atualizando alguns Scripts para perfeito funcionamento e organizando tudo.]* *[Analisando outros bancos de dados para cruzar informações.]*
+- 📅 **19 de Abril** → Cruzamento dos sisprenatal x nascidos vivos para indentificar padrões de gestantes, publico e particular
+- 📅 **20 de Abril** → Inicio da Analise do sisnasc, objetivo entender os motivos de gestantes não fazer um acompanhamento adeuqado
+- 📅 **26 de Abril** → Descartado os datasets do cenes, as informações de código de estabelecimento não batem com do sisnasc
+- 📅 **19 de Abril** → Usando tecnicas de Machining Learning com biblioteca
+- 📅 **03 de Maio** → Novos insights transmitidos de sisnsc para inserir no documento
+- 📅 **05 de Maio** → Documento do projeto pronto, sendo revisado para anexar
+🚀 **Status Atual:** *[Atualizando alguns Scripts para perfeito funcionamento e organizando tudo.]* *[preparando para enviar o aplicando 3.]*
 --- 
