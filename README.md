@@ -49,7 +49,8 @@ Etapa | Descrição
 
 ## 🔗 Link para o Documento do Projeto
 ---
-[Documento Oficial](https://github.com/GrupoMackenzie/ProjetoAplicado01-DataScience-Mackenzie-2025/blob/main/docs/A2_ProjetoAplicado_Prenatal.pdf)
+[Documento Oficial](https://github.com/GrupoMackenzie/ProjetoAplicado01-DataScience-Mackenzie-2025/blob/main/docs/A3_PA01_2025.pdf)
+[Esboço do Data Storytelling](https://github.com/GrupoMackenzie/ProjetoAplicado01-DataScience-Mackenzie-2025/blob/main/docs/esboço do data storytelling.pdf)
 
 ## 🛠 Tecnologias que estamos usando:
 ---
