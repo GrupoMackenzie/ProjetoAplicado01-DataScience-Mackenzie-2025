@@ -2,7 +2,7 @@
 **:warning: Em desenvolvimento.**
 ---
 ![Banner PAI](https://github.com/user-attachments/assets/bce12192-a20a-4cf4-a5f5-7e7f445aecaf)
-# Análise de Dados em Saúde Materna
+# Antes do Primeiro choro - Visualizando desigualdades no cuidado gestacional!
 
 ## 📌 Descrição do Projeto
 ---
@@ -32,10 +32,10 @@ Etapa | Descrição
 
 ## 👥 Membros do Grupo
 ---
-- ALBERTO NAGEM → Coleta e tratamento dos dados, criação dos scripts, exploração dos dados, organização do github.
-- ANA JULIA DE ALMEIDA SAMPAIO → Documentação e apresentação dos insights
-- DIOGO LIMA PEREIRA → Modelagem e visualizações dos resultados e ajudar na documentação
-- GABRIEL TORRES MENDES → Definição do problema, Análises estatísticas, organização do projeto.
+- ALBERTO NAGEM → Coleta e tratamento dos dados, criação dos scripts, plotagem, exploração e interpretação dos insights, organização do github.
+- ANA JULIA DE ALMEIDA SAMPAIO → Documentação, apresentação dos insights, Roteiro do Data Storytelling
+- DIOGO LIMA PEREIRA → Modelagem e visualizações dos resultados, revisão dos scripts, organização do github, edição.
+- GABRIEL TORRES MENDES → Definição do problema, Documentação, organização do projeto, revisão do Data Storytelling, formula do vídeo.
 
 ## 📂 Estrutura do Repositório
 ---
@@ -51,6 +51,7 @@ Etapa | Descrição
 ---
 [Documento Oficial](https://github.com/GrupoMackenzie/ProjetoAplicado01-DataScience-Mackenzie-2025/blob/main/docs/A3_PA01_2025.pdf) <br>
 [Esboço do Data Storytelling](https://github.com/GrupoMackenzie/ProjetoAplicado01-DataScience-Mackenzie-2025/blob/main/docs/esboço_do_data_storytelling.pdf)
+[Vídeo do projeto]([https://github.com/GrupoMackenzie/ProjetoAplicado01-DataScience-Mackenzie-2025/blob/main/docs/esboço_do_data_storytelling.pdf](https://youtu.be/ZoFgVLCrJBQ))
 
 ## 🛠 Tecnologias que estamos usando:
 ---
