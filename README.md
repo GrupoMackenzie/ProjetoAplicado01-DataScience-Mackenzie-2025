@@ -50,8 +50,8 @@ Etapa | Descrição
 ## 🔗 Link para o Documento do Projeto
 ---
 [Documento Oficial](https://github.com/GrupoMackenzie/ProjetoAplicado01-DataScience-Mackenzie-2025/blob/main/docs/A3_PA01_2025.pdf) <br>
-[Esboço do Data Storytelling](https://github.com/GrupoMackenzie/ProjetoAplicado01-DataScience-Mackenzie-2025/blob/main/docs/esboço_do_data_storytelling.pdf)
-[Vídeo do projeto]([https://github.com/GrupoMackenzie/ProjetoAplicado01-DataScience-Mackenzie-2025/blob/main/docs/esboço_do_data_storytelling.pdf](https://youtu.be/ZoFgVLCrJBQ))
+[Esboço do Data Storytelling](https://github.com/GrupoMackenzie/ProjetoAplicado01-DataScience-Mackenzie-2025/blob/main/docs/esboço_do_data_storytelling.pdf) <br>
+[Vídeo do projeto](https://youtu.be/ZoFgVLCrJBQ)
 
 ## 🛠 Tecnologias que estamos usando:
 ---
