@@ -129,5 +129,7 @@ Este roadmap apresenta as principais fases do projeto e seus marcos importantes.
 - 📅 **19 de Abril** → Usando tecnicas de Machining Learning com biblioteca
 - 📅 **03 de Maio** → Novos insights transmitidos de sisnsc para inserir no documento
 - 📅 **05 de Maio** → Documento do projeto pronto, sendo revisado para anexar
-🚀 **Status Atual:** *[Atualizando alguns Scripts para perfeito funcionamento e organizando tudo.]* *[preparando para enviar o aplicando 3.]*
---- 
+- 📅 **06 de Maio** → Projeto A3 entregue
+- 📅 **30 de Maio** → Projeto A4 entregue
+- 📅 **31 de Maio** → Vídeo upado no youtube: https://www.youtube.com/watch?v=ZoFgVLCrJBQ
+🚀 **Status Atual:** *[Aguardando Feedback.]*
