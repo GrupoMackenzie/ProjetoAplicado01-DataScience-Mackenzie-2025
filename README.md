@@ -1,5 +1,5 @@
 # Projeto Aplicado 01 - DataScience - Mackenzie/2025 📊
-**:warning: Em desenvolvimento.**
+**🚀 Finalizado.**
 ---
 ![Banner PAI](https://github.com/user-attachments/assets/bce12192-a20a-4cf4-a5f5-7e7f445aecaf)
 # Antes do Primeiro choro - Visualizando desigualdades no cuidado gestacional!
@@ -81,27 +81,27 @@ Este roadmap apresenta as principais fases do projeto e seus marcos importantes.
 
 ### 📌 Etapas do Projeto
 ---
-1️⃣ **Etapa 1: Definição e Planejamento** 📋 *(Dia 04 de Março a 03 de Abril)*
+1️⃣ **Etapa 1: Definição e Planejamento** 📋 *(04 de Março a 03 de Abril 2025)*
    - Definição do problema e objetivos do projeto  
    - Identificação da organização e área de atuação  
    - Montagem do grupo e distribuição de responsabilidades  
    - Elaboração do cronograma de atividades  
    - Discussão sobre pensamento computacional no contexto organizacional  
 ---
-2️⃣ **Etapa 2: Análise Explorátoria e Proposta Analítica** 🔍 *(Dia 10 de Março a 3 de Abril)*
+2️⃣ **Etapa 2: Análise Explorátoria e Proposta Analítica** 🔍 *(10 de Março a 3 de Abril 2025)*
    - Definição da proposta analítica  
    - Coleta e organização do dataset  
    - Início das análises exploratórias de dados (EDA)  
    - Identificação de padrões e tendências iniciais  
    - Ajustes nos dados para futuras modelagens  
 ---
-3️⃣ **Etapa 3: Apresentação e Data Storytelling** 📊 *(Dia 04 a 28 de Abril)*
+3️⃣ **Etapa 3: Apresentação e Data Storytelling** 📊 *(04 a 28 de Abril 2025)*
    - Desenvolvimento dos resultados analíticos  
    - Aplicação de técnicas de Data Storytelling  
    - Construção de gráficos e visualizações impactantes  
    - Elaboração do relatório com insights principais  
 ---
-4️⃣ **Etapa 4: Finalização e Apresentação** 🎥 *(Dia 29 de Abril a 26 de Maio)*
+4️⃣ **Etapa 4: Finalização e Apresentação** 🎥 *(29 de Abril a 26 de Maio 2025)*
    - Ajustes finais e refinamento da análise  
    - Gravação do vídeo de apresentação (5 minutos)  
    - Organização da entrega final  
@@ -132,4 +132,4 @@ Este roadmap apresenta as principais fases do projeto e seus marcos importantes.
 - 📅 **06 de Maio** → Projeto A3 entregue
 - 📅 **30 de Maio** → Projeto A4 entregue
 - 📅 **31 de Maio** → Vídeo upado no youtube: https://www.youtube.com/watch?v=ZoFgVLCrJBQ
-🚀 **Status Atual:** *[Aguardando Feedback.]*
+- 🚀 **Feedback:** → Projeto Avaliado 10/10
