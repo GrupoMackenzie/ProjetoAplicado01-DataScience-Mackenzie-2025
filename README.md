@@ -1,7 +1,7 @@
 # Projeto Aplicado 01 - DataScience - Mackenzie/2025 📊
 **🚀 Finalizado.**
 ---
-![Banner PAI](https://github.com/user-attachments/assets/bce12192-a20a-4cf4-a5f5-7e7f445aecaf)
+![Banner PAI](https://github.com/GrupoMackenzie/ProjetoAplicado01-DataScience-Mackenzie-2025/blob/main/docs/Banner%20PA1.png)
 # Antes do Primeiro choro - Visualizando desigualdades no cuidado gestacional!
 
 ## 📌 Descrição do Projeto
@@ -133,3 +133,4 @@ Este roadmap apresenta as principais fases do projeto e seus marcos importantes.
 - 📅 **30 de Maio** → Projeto A4 entregue
 - 📅 **31 de Maio** → Vídeo upado no youtube: https://www.youtube.com/watch?v=ZoFgVLCrJBQ
 - 🚀 **Feedback:** → Projeto Avaliado 10/10
+
